@@ -1,0 +1,2 @@
+#!/bin/sh
+cp -ar /etc/config-setup/config-migration-pre-hooks.d /host/

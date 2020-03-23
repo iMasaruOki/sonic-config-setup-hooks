@@ -1,0 +1,3 @@
+#!/bin/sh
+mkdir -p /host/old_ssh
+cp -ar /etc/ssh/* /host/old_ssh/
